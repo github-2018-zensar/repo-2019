@@ -1,1 +1,3 @@
 #LICENSE DETAILS
+A new unwanted line
+
